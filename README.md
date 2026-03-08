@@ -25,5 +25,10 @@ Skills: LLM, RAG
 This project demonstrates basic knowledge of:
 - Prompt engineering
 - LLM usage
+
+- ## Example Output
+
+![Email Generator Output](output_example.png)
+
 - API integration
 
